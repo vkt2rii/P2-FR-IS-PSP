@@ -6,8 +6,8 @@
     "data_size": 176,
     "nom_orig": "Eikichi",
     "texte_orig": "Whoa,[SP]wait[SP]a[SP]sec![1205][001E][SP]There's[SP]people[SP]from[SP]Coolest\nhere!?[1205][001E][SP]To[SP]interview[SP]YOU!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Whoa, attends un peu![1205][001E] Y'a des gens de Coolest\nici!?[1205][001E] Pour t'interviewer TOI!?"
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 270,
     "nom_orig": "Eikichi",
     "texte_orig": "Whaaaaaat!?[1205][001E][SP]Why[SP]not[SP]me!?[1205][001E][SP]How[SP]could[SP]they[SP]write\na[SP]story[SP]without[SP]interviewing[SP]the[SP]handsomest,\nmost[SP]beautiful[SP]guy[SP]around!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Quoiiiii!?[1205][001E] Pourquoi pas moi?![1205][001E] Comment pourraient-ils écrire\nune histoire sans interroger\nle plus beau mec ici!?"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 260,
     "nom_orig": "Eikichi",
     "texte_orig": "Ooooh![1205][001E][SP]Ginko's[SP]all[SP]mad[SP]now![SP]One[SP]girl's[SP]vault\nis[SP]another[SP]man's[SP]lesson![E1][E2]\n\n\n[E3][E4][NULL][NULL]\"Ginko\nShut[SP]your[SP]face,[SP]Undie[SP]Bastard!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Ooooh![1205][001E] Ginko est super en colère là! Le coffre d'une femme\nest là leçon d'un autre homme![E1][E2]\n\n\n[E3][E4][NULL][NULL]\"Ginko\nFerme là, sale undie!"
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 208,
     "nom_orig": "Eikichi",
     "texte_orig": "Yeesh,[SP]she's[SP]scary...[1205][001E][SP]She's[SP]not[SP]really[SP]one[SP]to\ntalk[SP]when[SP]it[SP]comes[SP]to[SP]girls'[SP]personalities.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Ouhh, elle fait peur...[1205][001E] Elle peut pas vraiment\nparler quand il s'agit des personnalités des filles."
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 170,
     "nom_orig": "Eikichi",
     "texte_orig": "Ooooh!?[1205][001E][SP]Ginko's[SP]pissed[SP]again![SP]One[SP]girl's[SP]colt\nis[SP]another[SP]man's[SP]lesson!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Ooooh!?[1205][001E] Ginko est encore en colère! Le poulain d'une fille\nest le poulain d'un autre homme!"
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 104,
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]said[SP]SHUT![SP]UP![SP]Don't[SP]make[SP]me[SP]smack[SP]you!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "J'ai dit FERME! LÀ! Me force pas à te frapper!"
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 260,
     "nom_orig": "Eikichi",
     "texte_orig": "Yeesh,[SP]she's[SP]terrifying...[1205][001E][SP]Seriously,[SP]she's\nin[SP]no[SP]position[SP]to[SP]make[SP]snarky[SP]remarks[SP]about\nother[SP]girls'[SP]personalities.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Ouuh... elle fait peur...[1205][001E] Elle est\nvraiment pas en position pour faire de mauvaises remarques sur\nles personnalités des autres filles."
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 212,
     "nom_orig": "Eikichi",
     "texte_orig": "A[SP]contest,[SP]huh...?[1205][001E][SP]Just[SP]better[SP]hope[SP]the[SP]school\nfestival[SP]isn't[SP]canceled[SP]because[SP]of[SP]all[SP]this!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Un concours, hm...?[1205][001E] J'espère juste que le festival\ndu lycée est pas annulé à cause de tout ça!"
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 276,
     "nom_orig": "Lisa",
     "texte_orig": "Huh!?[SP]What're[SP]you[SP]talking[SP]about!?[1205][001E][SP][U+1113]\ndeserves[SP]it[SP]because[SP]he[SP]IS[SP]the[SP]coolest![1205][001E][SP]Who'd\nwant[SP]to[SP]read[SP]about[SP]an[SP]Undie[SP]Boss[SP]like[SP]you!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lisa",
+    "texte_fr": "Huh!? De quoi tu parles!?[1205][001E] [U+1113]\nle mérite parce qu'il EST le plus cool![1205][001E] Qui\nvoudrait lire sur un boss Undie comme toi!?"
   },
   {
     "id": 9,
